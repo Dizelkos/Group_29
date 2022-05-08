@@ -1,0 +1,10 @@
+------ SYSTEM LOG (logcat -v threadtime -d *:v) ------
+--------- beginning of system
+Blah
+Blah
+Blah
+
+--------- beginning of main
+Blah 
+Blah
+Blah
